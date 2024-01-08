@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "142392649319",
+    "project_id": "filmuse-f3fb2",
+    "storage_bucket": "filmuse-f3fb2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:142392649319:android:ccb63a8f7d40f8be9056c2",
+        "android_client_info": {
+          "package_name": "edu.skku.cs.finalproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "142392649319-epi255ih3qqsds0cg417dt9ratl5dqd8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edu.skku.cs.finalproject",
+            "certificate_hash": "3fde98307fc4e0b4cfe19ebd1866d67758d0e6a6"
+          }
+        },
+        {
+          "client_id": "142392649319-gf3u293392o34vv5v8j8prmqidvrpci2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzp9Ym4mcXi1Ghbf0LBBmtXTiWf5AAPgs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "142392649319-gf3u293392o34vv5v8j8prmqidvrpci2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
